@@ -4,4 +4,5 @@
   "bin": [
     ["app.exe", "pycasino"]
   ]
+  "hash": "sha256-372a9a9e13a507a19db89f62b9b783f1775853198dce256e2a38631d83b1fedd"
 }
