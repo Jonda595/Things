@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "url": "https://raw.githubusercontent.com/Jonda595/PyCasino/refs/heads/main/app.exe",
+  "bin": [
+    ["app.exe", "pycasino"]
+  ]
+}
